@@ -1,6 +1,6 @@
 # Joaquín Ramírez – Computer Engineering Student
 
-I'm currently in the 4th semester of Computer Engineering at Universidad Técnica Federico Santa María (Chile).
+I'm currently in the 6th semester of Computer Engineering at Universidad Técnica Federico Santa María (Chile).
 
 ---
 
